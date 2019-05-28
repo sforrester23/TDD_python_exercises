@@ -9,5 +9,11 @@ def test_hello_human2():
 def test_area_square():
     assert area_square(10) == 100
 
+def test_area_square1():
+    assert area_square(13) == 169
+
 def test_area_triangle():
     assert area_triangle(10, 10) == 50
+
+def test_area_triangle2():
+    assert area_triangle(10, 13) == 65
