@@ -1,0 +1,1 @@
+from py_excercises_test_101.specs.exercise_101 import *
