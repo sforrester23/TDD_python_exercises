@@ -21,34 +21,34 @@ def test_calculator_sum4():
 
 
 def test_calculator_subtract():
-    assert calculator_sum(20, 4) == 16
+    assert calculator_subtract(20, 4) == 16
 
 
 def test_calculator_subtract2():
-    assert calculator_sum(10, 4) == 6
+    assert calculator_subtract(10, 4) == 6
 
 
 def test_calculator_subtract3():
-    assert calculator_sum("20", 4) == 16
+    assert calculator_subtract("20", 4) == 16
 
 
 def test_calculator_subtract4():
-    assert calculator_sum("2", "44") == -42
+    assert calculator_subtract("2", "44") == -42
 
 def test_calculator_multiply():
-    assert calculator_sum(20, 4) == 60
+    assert calculator_multiply(20, 4) == 60
 
 
 def test_calculator_multiply2():
-    assert calculator_sum(10, 4) == 40
+    assert calculator_multiply(10, 4) == 40
 
 
 def test_calculator_multiply3():
-    assert calculator_sum("22", 4) == 68
+    assert calculator_multiply("22", 4) == 68
 
 
 def test_calculator_multiply4():
-    assert calculator_sum("2", "44") == 48
+    assert calculator_multiply("2", "44") == 48
 
 def test_area_square():
     assert area_square(10) == 100
