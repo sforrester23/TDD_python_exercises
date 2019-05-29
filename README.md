@@ -14,7 +14,7 @@ Let's get started. First clone this repo by running:
 `cd` into the right directory.
 Then what you are going to do is run the tests:
 
-    $ pytest exercise_101.py00
+    $ pytest specs_101.py
 
 
 Inside each exercise file you have some methods to complete.
