@@ -32,7 +32,7 @@ If you are using Pycharm:
 
     3 - add and install pytest
 
-![Alt text](.content_for_readme/103_interperter_packages.PNG)
+![Alt text](.content_for_readme/103_interperter_packages_new.PNG)
 
 
 
