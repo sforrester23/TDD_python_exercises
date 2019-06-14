@@ -1,6 +1,6 @@
 # Python  exercise 102 :taco:
 
-The excercises come with two main files: 
+The exercises come with two main files: 
  - exercise file
  - specs file
  
