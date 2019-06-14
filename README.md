@@ -4,7 +4,7 @@ The exercises come with two main files:
  - exercise file
  - specs file
  
-The object is you keep running the tests until you pass! :star:
+The object is you keep running the tests until they ALL pass! :star:
 
 ## Setup
 1) Get the exercises
@@ -34,7 +34,7 @@ If you are using Pycharm:
 
 ![Alt text](.content_for_readme/103_interperter_packages_new.PNG)
 
-
+## Runing the Test & doing the Exercise :running::running: :boom::computer::boom::exclamation:
 
 `cd` into the right directory.
 Then what you are going to do is run the tests:
@@ -46,4 +46,4 @@ Inside each exercise file you have some methods to complete.
 
 Read the comment for guidance & run your tests to know that you're done.
 
-Good luck :) 
+Good luck :) :fire::pray::pray::fire:
