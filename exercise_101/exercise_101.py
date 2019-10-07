@@ -21,6 +21,18 @@ def area_triangle(base, height):
     area=0.5*base*height
     return area
 
+def area_circle(radius):
+    radius = float(radius)
+    pi = math.pi
+    area = pi * radius**2
+    return area
+
+def volume_sphere(radius):
+    radius = float(radius)
+    pi = math.pi
+    volume = (4/3)*pi*radius**3
+    return volume
+
 
 
 

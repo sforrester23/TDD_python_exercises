@@ -17,3 +17,17 @@ def test_area_triangle():
 
 def test_area_triangle2():
     assert area_triangle(10, 13) == 65
+
+def test_area_circle():
+    assert round(area_circle(10), 3) == 314.159
+
+def test_area_circle2():
+    assert round(area_circle("9"), 3) == 254.469
+
+def test_volume_sphere():
+    assert round(volume_sphere(10), 3) == 4188.790
+
+def test_volume_sphere2():
+    assert round(volume_sphere("9"), 3) == 3053.628
+
+
