@@ -1,4 +1,4 @@
-from exercise_102 import *
+from excercise_102 import *
 
 def test_full_name1():
     assert full_name('Jefferson', 'Yunn') == 'Jefferson Yunn'
@@ -36,7 +36,7 @@ def test_calculator_subtract4():
     assert calculator_subtract("2", "44") == -42
 
 def test_calculator_multiply():
-    assert calculator_multiply(20, 4) == 60
+    assert calculator_multiply(20, 4) == 80
 
 
 def test_calculator_multiply2():
@@ -44,11 +44,11 @@ def test_calculator_multiply2():
 
 
 def test_calculator_multiply3():
-    assert calculator_multiply("22", 4) == 68
+    assert calculator_multiply("22", 4) == 88
 
 
 def test_calculator_multiply4():
-    assert calculator_multiply("2", "44") == 48
+    assert calculator_multiply("2", "44") == 88
 
 def test_area_square():
     assert area_square(10) == 100
